@@ -23,3 +23,11 @@ select{
     background-color: pink;
    
 }
+.s4-btn{
+    background-color: brown;
+    cursor: pointer;
+}
+.s2-img{
+    z-index: 4;
+   
+}
